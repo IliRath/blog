@@ -1,5 +1,5 @@
 +++
-title = "Five Pillars of Skycoin"
+title = "Die fünf Säulen von Skycoin"
 tags = [
     "Statement",
 ]
@@ -10,41 +10,31 @@ categories = [
 ]
 +++
 
-The Skycoin project is a hermetically contained software/application platform,
-that operates in parallel to and on top of but independently of the existing
-internet.
+Das Skycoin-Projekt ist eine hermetisch abgeschlossene Software & Anwendungsplattform, die parallel zum sowie auf der Grundlage des  bestehenden Internet, jedoch unabhängig davon arbeitet.
 
-The five pillars of the Skycoin project are:
+Die fünf Säulen des Skycoin-Projekts sind:
 
-(1) [Skycoin](https://github.com/skycoin/skycoin), a coin that is better than
-   Bitcoin in every way technically:
+(1) [Skycoin](https://github.com/skycoin/skycoin), ein Coin, der technisch Bitcoin in jeder Hinsicht überlegen ist:
 
- - Transactions faster than credit card instead of an hour.
- - Unlimited transaction rate.
- - No need for miners and block rewards.
- - Low power usage.
- - All the problems in the cryptography are fixed (e.g. signature malleability).
- - A consensus mechanism superior to anything that exists
-   ([Obelisk](/statement/obelisk-the-skycoin-consensus-algorithm/)).
+- Transaktionen werden schneller als bei Kreditkartenzahlungen verarbeitet.
+- Unbegrenzte Transaktionsraten.
+- Keine Notwendigkeit für Miner und Blockbelohnungen.
+- Geringer Stromverbrauch.
+- Alle Probleme in der Kryptographie sind behoben (z.B. Signaturverformbarkeit).
+- Ein Konsensmechanismus, der allem, was bisher existiert, überlegen ist ([Obelisk](/statement/obelisk-the-skycoin-consensus-algorithm/)).
 
-(2) [Skywire](/tags/skywire/), a mesh network, where you can get coins for
-   forwarding traffic/bandwidth. This is a similar to Tor or BitTorrent,
-   except that you will be paid to run node.
+(2)[Skywire](/tags/skywire/), ein Mesh-Netzwerk, in dem Sie Coins für die Weiterleitung von Traffic & Bandbreite erhalten können. Dies ähnelt Tor oder BitTorrent; Sie werden jedoch in diesem Fall dafür bezahlt, Nodes auszuführen.
 
-(3) [Skyledger](https://www.skyledger.net), a platform that is our version of
-   Ethereum's ERC20, but is better:Five Pillars of Skycoin
+(3)[Skyledger](https://www.skyledger.net), eine Plattform, die unsere - verbesserte - Version von Ethereums ERC20 ist:
 
- - We give every coin their own blockchain and the platform runs on top of the
-   Skywire infrastructure, and we get a fee from that.
- - We have a programming language ([CX](/overview/cx-overview/)),
-   not "smart contracts" (which we think is total bullshit).
- - We let the developers of each chain hardcode whatever they want to do.
+- Wir geben jeder Münze ihre eigene Blockkette und die Plattform läuft auf der Skywire-Infrastruktur; dafür erhalten wir eine Gebühr.
+- Wir haben eine Programmiersprache ([CX](/overview/cx-overview/)), keine "intelligenten Verträge" (was wir für totalen Blödsinn halten).
+- Wir lassen die Entwickler jeder Kette hardcoden, was auch immer sie wollen.
 
-(4) An ecosystem of apps being built on top of the previous three things.
+(4) Ein Ökosystem von Apps, das auf den drei vorhergehenden Dingen aufbaut.
 
- - [Sky-messenger](http://messenger.skycoin.net/)
- - [Distributed social media (BBS)](https://github.com/skycoin/bbs))
-   which is sort of like Steemit, but on our infrastructure and platform.
- - File-sharing/dropbox type functionality
+- [Sky-messenger](http://messenger.skycoin.net/)
+-  [Eine dezentralisierte, verteilte Social Media Anwendung (BBS)](https://github.com/skycoin/bbs), ähnlich wie Steemit, die auf unserer Infrastruktur und Plattform basiert.
+- File-Sharing bzw. dropboxähnliche Funktionalität
 
-(5) Our own [hardware platform](/statement/skywire-miner-hardware-for-the-next-internet/).
+(5) Unsere eigene [Hardware-Plattform](/statement/skywire-miner-hardware-for-the-next-internet/).
