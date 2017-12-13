@@ -1,5 +1,6 @@
 +++
-title = "Skycoin Distribution Plan"
+title = "Skycoin Distributionsplan
+"
 tags = [
     "Statement",
 ]
@@ -10,54 +11,30 @@ categories = [
 ]
 +++
 
-**This is an official announcement regarding how the SKY distribution will be
-handled from now on.**
+**Dies ist eine offizielle Ankündigung darüber, wie die Distribution von SKY in Zukunft ablaufen wird.**
 
-Skycoin's distribution has had a history of being unclear and handled
-different ways.
+Die Verteilung von Skycoins war in der Vergangenheit zu einem gewissen Grad unklar und wurde unterschiedlich gehandhabt. 
 
-At present, there's no ICO. In the near future, there will be a limited
-ongoing OTC, handled by software.
+Derzeit gibt es kein ICO. In naher Zukunft wird es jedoch ein begrenztes OTC geben, das mit einer Software abgewickelt wird.
 
-The OTC will be accessible from the wallet and from the website.
+Das OTC wird von der Wallet sowie auch von der Website aus zugänglich sein.
 
-The OTC will have a total cap, a daily cap, and an adjustable price.
+Das OTC wird eine Gesamtobergrenze, eine tägliche Obergrenze und einen anpassbaren Preis haben.
 
-Setting the price is a problem because Skycoin is already on exchanges.
-The OTC price will be adjusted manually based upon the market rate. When the
-price is updated, it will be based on the recent market price. The price will
-be set slightly higher than whatever that market rate is.
+Die Festlegung des Preises ist problematisch, da Skycoin bereits auf einigen Börsen vertreten ist. Der OTC-Preis wird manuell auf der Basis des Marktkurses angepasst. Wenn der Preis aktualisiert wird, basiert er auf dem jeweils aktuellen Marktpreis, wird jedoch geringfügig höher angesetzt als dieser.
 
-Skycoin has many long time holders, starting from the early distribution
-several years ago. We do not want to undermine their support. This was a big
-reason why we had set the price for the August distribution at 0.002BTC/SKY,
-which was higher than the exchange price. The coins have to be distributed one
-way or another, and we are trying to balance this with the concerns of
-previous investors.
+Skycoin hat viele langjährige Besitzer, deren Unterstützung wir nicht untergraben wollen. Dies war ein wichtiger Grund, warum wir den Preis für die August-Distribution auf 0,002BTC/SKY festgelegt hatten; höher als der damalige Börsenpreis. Die Coins müssen auf die eine oder andere Weise verteilt werden und wir versuchen, dies mit den Sorgen früher Investoren in Einklang zu bringen.
 
-The daily cap has not been chosen, but it will be chosen to make the OTC last
-for at least one year.
+Die tägliche Obergrenze wurde noch nicht festgelegt. Sie wird so gewählt, dass der OTC mindestens ein Jahr lang läuft.
 
-We will set the total cap of the OTC sale to bring Skycoin's distributed
-percentage to be between 10% and 15%. Currently, Skycoin is at 6%. The
-remainder is reserved for the Skywire network subsidy, until we hit the 25%
-timelock cap and enter a maximum 5% per year distribution.
+Wir werden die Gesamtobergrenze des OTC-Verkaufs so festlegen, dass der prozentuale Anteil der verteilten Skycoins zwischen 10% und 15% liegt. Derzeit liegt dieser Wert bei 6%. Der Rest ist für die Skywire-Netzwerksubvention reserviert, bis wir die 25% Timelock-Cap erreicht haben, die eine zukünftige maximale Verteilung von 5% pro Jahr bewirkt.
 
-## Timelocked distribution
+Zeitlich eingeschränkte Verteilung
 
-The Skycoin distribution is timelocked. This means that, of the undistributed
-Skycoin, 25% are immediately distributable. The remainder cannot be
-distributed until the first 25% have been distributed. Once the first
-25% have been distributed, an additional 5% is unlocked for distribution. For
-each subsequent year thereafter, an additional 5% is unlocked for distribution.
-This gives Skycoin a 14 year distribution timeline, after the first 25% is
-distributed.
+Die Distribution der Skycoins ist zeitgesperrt. Das bedeutet, dass von den nicht verteilten Skycoins 25% sofort verfügbar sind. Der Rest kann erst dann ausgegeben werden, wenn die ersten 25 % verteilt sind. Sobald dies geschehen ist, werden weitere 5 % für die Verteilung freigeschaltet. Dieser Vorgang wiederholt sich jährlich und ermöglicht Skycoin so eine 14-jährige Vertriebszeitspanne, nachdem die ersten 25 % verteilt wurden.
 
-We may extend the unlocking process to take up to 25 years, but we will never
-shorten the timelocking schedule.
+Wir können den Freigabeprozess auf bis zu 25 Jahre verlängern, aber wir werden den Zeitplan niemals verkürzen.
 
-There is no requirement that the yearly 5% be distributed. The unlock only
-enables that amount to be distributed.
+Eine Distribution der jährlich neu verfügbaren 5% Skycoins ist jedoch nicht zwingend erforderlich. Die Entsperrung führt lediglich dazu, dass dieser Betrag überhaupt verteilt werden kann.
 
-The locked Skycoin are allocated for expansion of the Skywire Network via
-targeted network subsidies and for bounties for platform development.
+Die gesperrten Skycoin werden für den Ausbau des Skywire-Netzwerks über gezielte Netzsubventionen sowie für Prämien für die Plattform-Entwicklung bereitgestellt.
